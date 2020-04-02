@@ -5,10 +5,7 @@ Sarmishtha PV and Melissa Wen
 CSC 173 Project #4 README
 April 25, 2018
 
-This was a collaboration project. The collaborators are Sarmishtha PV and Melissa Wen with the following NETIDs:
-
-Sarmishtha- sprathi2
-Melissa- mwen2
+For project details, see attached PDF. 
 
 
 TO COMPILE- enter the following:
